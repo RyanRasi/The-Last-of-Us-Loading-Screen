@@ -1,0 +1,38 @@
+<html>
+
+<head>
+<link rel="stylesheet" type="text/css" href="style.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <script src="essentials/parallax.js"></script>
+  <script src="script.js"></script>
+  <title>The Last of Us - Loading Screen</title>
+</head>
+
+
+<body>
+
+  <ul id="scene" data-friction-x="0.03"
+  data-friction-y="0.05">
+  <li class="layer" id="specks" data-depth="0.1"></li>
+  <li class="layer" id="layer-1" data-depth="0.15">
+    <div class="img" id="img-1"></div>
+  </li>
+  <li class="layer" id="layer-2" data-depth="0.25">
+    <div class="img" id="img-2"></div>
+  </li>
+  <li class="layer" id="layer-3" data-depth="0.45">
+    <div class="img" id="img-3"></div>
+  </li>
+</ul>
+
+<audio autoplay loop controls style="
+width: 10%;
+position:absolute;
+display: block;
+top:0;">
+      <source src="essentials/TheLastofUsSporeMenuSound.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+</audio>
+
+</body>
+</html>
