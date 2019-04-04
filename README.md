@@ -4,4 +4,4 @@ The loading screen from the last of us where spores droop down the screen in a l
 Dependency libraries used are jQuery and Parralax.js
 <br><br>
 The basis and template for the particle effects are from https://codepen.io/matthewwilliams/pen/Qbzmzr
-<br>The background music is from the Last of Us - Naughty Dog - Sony Computer Entertainment - Composer - Gustavo Santaolalla - YouTube link - https://www.youtube.com/watch?v=x7FnF8wYRZQ
+<br><br>The background music is from the Last of Us - Naughty Dog - Sony Computer Entertainment<br>Composer - Gustavo Santaolalla - YouTube link - https://www.youtube.com/watch?v=x7FnF8wYRZQ
